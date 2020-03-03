@@ -8,14 +8,14 @@ description: A Bookmark Manager
 
 I'm not the most organized individual, and as such I need help to become and to stay organized. If you take a look at my bookmarks, yours too maybe. Then you'll see all the many websites, articles etc. that you've marked to come back to one day. For this reason, I need to create Cody.
 
-### What Will Cody Do?
+## What Will Cody Do?
 
 1. Allow the Creation of a Bookmark \(Website, Article, Image-link\)
 2. Import Your Current Bookmarks from your desktop\(s\) and browsers \(Chrome, Firefox, Opera, Edge, Chromium\)
 3. Sync your current and new Bookmarks between devices by sharing information between the browser and the app \(with or without an extension\)
 4. Store your information within the Block Stack Block-chain for security, or a user chosen storage method \(Dropbox, Drive, Mega, One-drive, etc.\)
 
-### Additional Features
+## Additional Features
 
 * Show Images instead of link
 * Switch Between List View and Item View
@@ -34,7 +34,7 @@ I'm not the most organized individual, and as such I need help to become and to 
 * Add a user option \(multiple users on one "account"/system\)
   * A sign in, sign out, switch users - for shared computers
 
-### How I will Do It
+## How I will Do It
 
 1. Create the bookmark creation, importing, and exporting foundation.
 2. Integrate with File Storage for Cloud Storage, or Local Storage
@@ -45,4 +45,16 @@ I'm not the most organized individual, and as such I need help to become and to 
 7. Add additional features
 8. Gain Feedback
 9. Fix or improve based on feedback
+
+## Platforms
+
+* Windows, Mac and Linux
+  * Through the use of Electron or Flutter
+* Android, Apple
+  * Through the use of: Cordova, Xameriam or Flutter
+* Web App \(Browser App\)
+  * Progressive Web App, Mobile and Desktop
+* Extension
+  * Following specs according to Chrome's Documentation
+  * Firefox, Opera and Chrome/Chromium Browsers \(Brave, Vivaldi\)
 
