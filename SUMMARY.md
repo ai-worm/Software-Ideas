@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Software-Ideas](README.md)
-* [Fabula](fabula-1.md)
+* [Fabula](fabula.md)
 * [Cody](cody.md)
 
