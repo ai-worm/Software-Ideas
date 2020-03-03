@@ -15,3 +15,12 @@ I'm not the most organized individual, and as such I need help to become and to 
 3. Sync your current and new Bookmarks between devices by sharing information between the browser and the app \(with or without an extension\)
 4. Store your information within the Block Stack Block-chain for security, or a user chosen storage method \(Dropbox, Drive, Mega, One-drive, etc.\)
 
+### How I will Do It
+
+1. Create the bookmark creation, importing, and exporting foundation.
+2. Integrate with File Storage for Cloud Storage, or Local Storage
+3. Create a user friendly User Interface \(Basic File structure\)
+4. Create an Extension to help smooth out the Desktop Experience
+5. Integrate with Block Stack
+6. Create a sharing feature that will work with mobile browsers \(from app to and fro browser\)
+
