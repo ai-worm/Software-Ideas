@@ -4,5 +4,6 @@
 
 ## Fabula
 
-* [README](fabula/readme.md)
+* [Fabula](readme.md)
+* [Cody](cody.md)
 
